@@ -40,11 +40,7 @@ _https://clearfollow.com/api.php?t=m&q=USERNAME_
 
 ## PHP Example
 
-<?php
-header('Content-Type: text/plain; charset=utf-8;'); 
-$file = file_get_contents("http://clearfollow.com/api.php?t=m&q=USERNAME");
-print_r(json_decode($file));
-?> 
+_https://github.com/ClearFollow/api/php-example.php_
 
 ## License
 
