@@ -40,7 +40,7 @@ _https://clearfollow.com/api.php?t=m&q=USERNAME_
 
 ## PHP Example
 
-_https://github.com/ClearFollow/api/php-example.php_
+_https://github.com/ClearFollow/api/blob/master/php-example.php_
 
 ## License
 
