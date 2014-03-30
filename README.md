@@ -6,10 +6,8 @@ _Application Programming Interface_
 
 _Our API allows you to retrieve informations from our website via GET request and supports the following query parameters:_ 
 
-1. _t (required) Query type._
-- _This parameter specify the type of the query, u is for profile informations, m is for messages informations._
-2. _q (required) Requested username._
-- _The t parameter supports two values:_
+1. _t (required) Query type. This parameter specify the type of the query, u is for profile informations, m is for messages informations._
+2. _q (required) Requested username. The t parameter supports two values:_
 
 > u = username [returns basic profile informations containing the following]
 > 
